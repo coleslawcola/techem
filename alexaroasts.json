@@ -1,0 +1,42 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "cole's burns",
+            "intents": [
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "burns",
+                    "slots": [],
+                    "samples": [
+                        "roast me",
+                        "open a burn",
+                        "Give me a burn."
+                    ]
+                },
+                {
+                    "name": "stop",
+                    "slots": [],
+                    "samples": [
+                        "stop"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
